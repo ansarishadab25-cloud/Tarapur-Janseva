@@ -1,0 +1,6 @@
+{
+  "name": "Tarapur Munger Janseva",
+  "description": "Hindi-first community public service and civic information app for residents of Tarapur, Munger, Bihar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
